@@ -5,4 +5,3 @@ https://jimorc.github.io) website.
 
 License and Copyright information is available on the [website](
 https://jimorc.github.io/copyright/).
-)
