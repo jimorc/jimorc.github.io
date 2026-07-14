@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: jimorc
 minimal_mistakes_skin: dark
 search: true
+locale: en-CA
 
 # Build settings
 markdown: kramdown
@@ -98,6 +99,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
   # _pages
   - scope:
       path: "_pages"
@@ -105,6 +108,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%Y-%m-%d"
 
 category_archive:
   type: liquid
