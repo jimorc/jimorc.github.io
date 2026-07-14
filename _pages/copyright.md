@@ -17,11 +17,14 @@ is licensed under the [MIT License](https://github.com/mmistakes/minimal-mistake
 
 ## Website Contents
 
-All other portions if this website are *Copyright (c) by I Live in a Tech World*.
+All other portions of this website are *Copyright (c) by I Live in a Tech World*.
 Its contents are made available for personal use, although no claim is made as to
 the accuracy of the provided information. Any use of this information is with the
 understanding that it is provided without warranty, and no claims for damage
-resulting from your use of this information may be made. Any inaccuracies that are
+resulting from your use of this information may be made. If this restriction is not
+legal in your country, then you may not use the information provided.
+
+Any inaccuracies that are
 brought to the attention of the site owner will be corrected.
 
 Commercial use of the contents of this website, including by AI Assistants, without
