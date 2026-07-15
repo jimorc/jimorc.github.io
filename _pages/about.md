@@ -22,8 +22,10 @@ programming.
 ### Computer Programming
 
 My first computer was an IBM 360/75 at University where I learned Fortran programming starting in 1968. Following University, I spent many years maintaining
-and then creating computer programs and systems in a business environment. Since I
-retired, I have maintained an interest in programming and computer software.
+and then creating computer programs and systems in a business environment. This work included modifying operating
+systems and writing and maintaining system software.
+
+Since I retired, I have maintained an interest in programming and computer software.
 
 ### Information Security
 
